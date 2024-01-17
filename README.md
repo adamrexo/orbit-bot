@@ -1,4 +1,7 @@
-# orbit-bot
-Bot for purposes of Orbit Development
+# Orbit Development Bot
+Bot for purposes of Orbit Development projects
 
-wip
+## Installation process
+```py
+WIP
+```
